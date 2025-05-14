@@ -3,7 +3,7 @@
 I’m an IT professional from Indonesia, passionate about building reliable networks and modern web applications.
 
 🔧 What I do:
-- Design and maintain enterprise network infrastructure (Cisco, Juniper, MikroTik)
+- Design and maintain enterprise network infrastructure (Cisco, Juniper, Fortinet, MikroTik)
 - Build responsive websites and dashboards (HTML, CSS, JavaScript, Python/Django)
 - Deploy projects with Docker, Linux, and cloud solutions
 - Secure systems using best practices in cybersecurity (Fortinet, Wazuh, etc)
