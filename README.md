@@ -1,16 +1,22 @@
-## Hi there 👋
+### 👋 Hi there! I'm a Network Specialist & Web Developer
 
-<!--
-**epulwahyudi/epulwahyudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an IT professional from Indonesia with a passion for building reliable networks and modern web applications.
 
-Here are some ideas to get you started:
+🔧 What I do:
+- Design and maintain enterprise network infrastructure (Cisco, Juniper, MikroTik)
+- Build responsive websites and dashboards (HTML, CSS, JavaScript, Python/Django)
+- Deploy projects with Docker, Linux, and cloud solutions
+- Secure systems using best practices in cybersecurity (Fortinet, Wazuh, etc)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Current Stack:
+- Networking: OSPF, BGP, VLAN, VPN
+- Web Dev: Django, Tailwind CSS, Bootstrap, REST APIs
+- Tools: VMware, NetBox, Git, Docker
+
+📚 Currently Learning:
+- Zscaler, SIEM Tools (Splunk, QRadar, Elastic)
+- Full-stack development with Django + React
+
+📫 Let’s connect!
+- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/epulwahyudi)
+- Portfolio: [lynk.id/yourusername](https://lynk.id/epulwahyudi)
