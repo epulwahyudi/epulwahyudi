@@ -18,5 +18,5 @@ I’m an IT professional from Indonesia with a passion for building reliable net
 - Full-stack development with Django + React
 
 📫 Let’s connect!
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/epulwahyudi)
-- Portfolio: [lynk.id/yourusername](https://lynk.id/epulwahyudi)
+- LinkedIn: [linkedin.com/in/epulwahyudi](https://linkedin.com/in/epulwahyudi)
+- Portfolio: [lynk.id/epulwahyudi](https://lynk.id/epulwahyudi)
