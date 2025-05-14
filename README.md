@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm a Network Specialist & Web Developer
 
-I’m an IT professional from Indonesia with a passion for building reliable networks and modern web applications.
+I’m an IT professional from Indonesia, passionate about building reliable networks and modern web applications.
 
 🔧 What I do:
 - Design and maintain enterprise network infrastructure (Cisco, Juniper, MikroTik)
