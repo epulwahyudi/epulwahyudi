@@ -13,10 +13,6 @@ I’m an IT professional from Indonesia, passionate about building reliable netw
 - Web Dev: Django, Tailwind CSS, Bootstrap, REST APIs
 - Tools: VMware, NetBox, Git, Docker
 
-📚 Currently Learning:
-- Zscaler, SIEM Tools (Splunk, QRadar, Elastic)
-- Full-stack development with Django + React
-
 📫 Let’s connect!
 - LinkedIn: [linkedin.com/in/epulwahyudi](https://linkedin.com/in/epulwahyudi)
 - Portfolio: [lynk.id/epulwahyudi](https://lynk.id/epulwahyudi)
