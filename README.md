@@ -15,4 +15,3 @@ I’m an IT professional from Indonesia, passionate about building reliable netw
 
 📫 Let’s connect!
 - LinkedIn: [linkedin.com/in/epulwahyudi](https://linkedin.com/in/epulwahyudi)
-- Portfolio: [lynk.id/epulwahyudi](https://lynk.id/epulwahyudi)
